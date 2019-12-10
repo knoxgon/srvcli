@@ -1,0 +1,6 @@
+[√] Make web
+[x] Receive file
+[x] Encrypt file
+[x] While encryption in progress, web loading in progress
+[x] Send encrypted back to user
+[x] Upload file with AES and Password

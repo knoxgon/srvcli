@@ -1,0 +1,54 @@
+html {
+  font-size: 62.5%;
+}
+#drag {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  border: 1px solid rgb(32, 144, 32);
+  width: 70rem;
+  height: 20rem;
+}
+
+#drag img {
+  position: absolute;
+  width: 10rem;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 5rem;
+  margin-left: 30rem;
+}
+
+#inputBtn {
+  opacity: 0;
+  position: relative;
+  width: 70rem;
+  height: 15rem;
+  cursor: pointer;
+}
+
+#encKey {
+  position: relative;
+  border: 1px solid indianred;
+  margin-top: 2rem;
+  margin-left: .4rem;
+  margin-right: .5rem;
+  margin-bottom: .3rem;
+  height: 2.5rem;
+  font-size: 2rem;
+}
+
+#encSel select{
+  position: relative;
+  border: 1px solid indianred;
+  margin-top: 2rem;
+  margin-left: .4rem;
+  margin-right: .5rem;
+  margin-bottom: .2rem;
+  height: 2.9rem;
+  font-size: 2rem;
+}
