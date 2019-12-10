@@ -1,0 +1,28 @@
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translate3d(0, -50%, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.portfolio__main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  background-color: #ffffff;
+  margin-top: 5rem;
+  animation: fadeIn 4s;
+}
+
+.portfolio__heads {
+  width: 100rem;
+  height: auto;
+  background-color: #eeeeee;
+  margin-top: 3rem;
+}

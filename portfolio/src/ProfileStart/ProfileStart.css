@@ -1,0 +1,115 @@
+@media all and (max-width: 900px) { 
+  .profile_start_art {
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex-basis: 100%;
+    width: 15rem;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-left: auto;
+    width: 0;
+  }
+  #profile_start_art__group h3 {
+    display: flex;
+    margin-top: -2.1rem;
+    margin-bottom: 4rem;
+    justify-content: center;
+    align-items: center;
+  }
+  #profile_start_art__group h1 {
+    margin-top: 1rem;
+    margin-bottom: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3.5rem;
+  }
+  .profile_start_desc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+  }
+  .profile_start_contact_info a {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+    margin: auto
+  }
+}
+
+
+/*          PROFILE ARTICLE START          */
+.profile_start_art {
+  display: flex;
+  flex-direction: row;
+}
+
+#profile_start_art__imgStyle {
+  border-radius: 50%;
+  margin: 1rem;
+  margin-left: 5rem;
+  padding: 2rem;
+}
+
+#profile_start_art__group {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Merriweather Sans', sans-serif;
+  margin-left: 5rem;
+  align-content: flex-start;
+}
+
+#profile_start_art__group h1 {
+  height: 1rem;
+  width: 25rem;
+  font-size: 3.5rem;
+}
+
+#profile_start_art__group h3 {
+  font-size: 1.5rem;
+  color: #1F95AC;
+}
+
+/*          PROFILE ARTICLE END          */
+
+/*          PROFILE DESCRIPTION START          */
+
+#profile_start__desc__description {
+  font-family: 'Noto Sans', sans-serif;
+  font-style: italic;
+  padding: 2rem;
+  line-height: 2.6rem;
+  font-size: 1.4rem;
+  margin: 2rem 4rem 0rem 4rem;
+}
+
+/*          PROFILE DESCRIPTION END          */
+
+.profile_start_contact_info {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-left: 23rem;
+}
+
+.profile_start_contact_info a {
+  font-size: 1.5rem;
+  text-decoration: none;
+  margin-left: 2rem;
+}
+
+.profile_start_contact_info a::after {
+  content: '|';
+  color: #CCC;
+  margin: 0px 0.5em;
+}
+
+.profile_start_contact_info img {
+  width: 1.5rem;
+  height: 1.5rem;
+}

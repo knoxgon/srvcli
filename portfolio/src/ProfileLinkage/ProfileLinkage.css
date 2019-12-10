@@ -1,0 +1,17 @@
+.profile_start_linkage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 2rem;
+}
+
+.profile_start_linkage a {
+  font-size: 1.5rem;
+  line-height: 3.5rem;
+  text-decoration: none;
+}
+
+.profile_start_linkage img {
+  width: 1.5rem;
+  height: 1.5rem;
+}

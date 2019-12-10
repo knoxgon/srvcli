@@ -8,14 +8,29 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "images/ico/facebook-logo.svg",
+      "sizes": "24x24 16x16",
+      "type": "image/x-icon"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "images/ico/github-logo.ico",
+      "sizes": "24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "images/ico/linkedin-logo.ico",
+      "sizes": "24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "images/ico/stackoverflow-logo.ico",
+      "sizes": "24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "images/ico/twitter-logo.ico",
+      "sizes": "24x24 16x16",
+      "type": "image/x-icon"
     }
   ],
   "start_url": ".",
