@@ -1,0 +1,56 @@
+.education_container {
+  display: flex;
+}
+
+.education_container__leftSideFixed {
+  width: 20rem;
+  color: rgb(106, 165, 136);
+  margin: 2rem;
+  margin-left: 2rem;
+}
+
+.education_container__leftSideFixed h3 {
+  font-size: 2rem;
+}
+
+.education_container__leftSideFixed h3::after {
+  font-size: 1.5rem;
+  content: '🔵';
+  text-align: right;
+  position: relative;
+  left: 10rem;
+}
+
+.education_container__rightSide {
+  margin: 1.5rem;
+  margin-left: 2rem;
+}
+
+.education_container__rightSide span {
+  display: flex;
+  flex-direction: row;
+  margin: 1.5rem;
+  margin-left: 2rem;
+}
+
+.education_container__rightSide span h4 {
+  flex-grow: 1;
+  font-size: 2rem;
+  margin: 1.5rem;
+  margin-left: 2rem;
+}
+
+.education_container__rightSide span p {
+  flex-grow: 1;
+  font-size: 1rem;
+  margin: 1.5rem;
+  margin-left: 2rem;
+}
+
+.dot {
+  height: 2.5rem;
+  width: 2.5px;
+  background-color: rgb(58, 137, 240);
+  border-radius: 50%;
+  display: inline-block;
+}

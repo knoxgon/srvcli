@@ -1,4 +1,4 @@
-@media all and (max-width: 900px) { 
+@media screen and (max-width: 900px) { 
   .profile_start_art {
     flex-direction: column;
     flex-wrap: wrap;
@@ -32,13 +32,11 @@
     align-content: center;
     margin: auto;
   }
-  .profile_start_contact_info a {
+  .profile_start_contact_info {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: flex-start;
-    align-items: center;
-    align-content: center;
-    margin: auto
+    margin-left: 23rem;
   }
 }
 
@@ -82,6 +80,8 @@
 #profile_start__desc__description {
   font-family: 'Noto Sans', sans-serif;
   font-style: italic;
+  text-align: justify;
+  text-justify: inter-word;
   padding: 2rem;
   line-height: 2.6rem;
   font-size: 1.4rem;
@@ -94,7 +94,7 @@
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
-  margin-left: 23rem;
+  margin-left: 28.5rem;
 }
 
 .profile_start_contact_info a {

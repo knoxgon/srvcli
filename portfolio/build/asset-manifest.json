@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4298ccf7.chunk.css",
+    "main.js": "/static/js/main.f434bed0.chunk.js",
+    "main.js.map": "/static/js/main.f434bed0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.170f8412.js",
+    "runtime-main.js.map": "/static/js/runtime-main.170f8412.js.map",
+    "static/js/2.80ad292e.chunk.js": "/static/js/2.80ad292e.chunk.js",
+    "static/js/2.80ad292e.chunk.js.map": "/static/js/2.80ad292e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.28fc9609eb90c74d37965a503c4f6930.js": "/precache-manifest.28fc9609eb90c74d37965a503c4f6930.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4298ccf7.chunk.css.map": "/static/css/main.4298ccf7.chunk.css.map",
+    "static/js/2.80ad292e.chunk.js.LICENSE": "/static/js/2.80ad292e.chunk.js.LICENSE",
+    "static/media/email.ico": "/static/media/email.81759259.ico",
+    "static/media/facebook-logo.ico": "/static/media/facebook-logo.be221f22.ico",
+    "static/media/github-logo.ico": "/static/media/github-logo.c31283d3.ico",
+    "static/media/linkedin-logo.ico": "/static/media/linkedin-logo.7787e66a.ico",
+    "static/media/output-onlinepngtools.png": "/static/media/output-onlinepngtools.7d18f568.png",
+    "static/media/stackoverflow-logo.ico": "/static/media/stackoverflow-logo.5ca1618d.ico",
+    "static/media/telephone.ico": "/static/media/telephone.d9ef6959.ico",
+    "static/media/twitter-logo.ico": "/static/media/twitter-logo.0d9ba124.ico"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.170f8412.js",
+    "static/js/2.80ad292e.chunk.js",
+    "static/css/main.4298ccf7.chunk.css",
+    "static/js/main.f434bed0.chunk.js"
+  ]
+}
